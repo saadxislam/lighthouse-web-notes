@@ -2,8 +2,8 @@
 ## Summary
 This repository contains all of the notes taken by [Saad](https://github.com/saadxislam) for the [Lighthouse Labs Web](https://www.lighthouselabs.ca/) Development Bootcamp
 
-### Testing
-this tests header sizes
+### TABLE OF CONTENTS:
+* [Week 1](/Week_1)
+  * [Day 1](/Day_1)
 
-###### OK COOL THIS WORKS
-
+  
